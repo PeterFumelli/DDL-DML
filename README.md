@@ -44,10 +44,10 @@ docker exec -it mysql_netology bash -c "mysql -u sys_temp -ppassword sakila < /t
 
 docker exec -it mysql_netology mysql -u sys_temp -ppassword -e "USE sakila; SHOW TABLES;"
 
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+![alt text](https://github.com/PeterFumelli/DDL-DML/blob/main/img/SELECT_user.png)
+![alt text](https://github.com/PeterFumelli/DDL-DML/blob/main/img/SHOW_GRANTS.png)
+![alt text](https://github.com/PeterFumelli/DDL-DML/blob/main/img/USE_sakila.png)
 
 ### Задание 2
 
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+![alt text](https://github.com/PeterFumelli/DDL-DML/blob/main/img/Excel.png)
